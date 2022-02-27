@@ -1,5 +1,5 @@
 title: Résumé
-baseurl: "/~ydzhou"
+baseurl: "/"
 theme: "jekyll-theme-minimal-resume"
 color: blue
 exclude:
