@@ -1,6 +1,6 @@
 title: Résumé
 baseurl: "/~ydzhou"
-theme: "jekyll-theme-minimal-resume"
+theme: jekyll-theme-minimal
 color: blue
 exclude:
   - README.md
