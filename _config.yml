@@ -1,0 +1,15 @@
+title: Résumé
+baseurl: "/~ydzhou"
+theme: "jekyll-theme-minimal-resume"
+color: blue
+exclude:
+  - README.md
+  - "README_zh-CN.md"
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-crisp-minimal-resume.gemspec
+  - /script
+  - /screenshots
+  - /fixtures
+  - Rakefile
