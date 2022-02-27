@@ -1,6 +1,6 @@
 title: Résumé
 baseurl: "/"
-theme: "jekyll-theme-minimal-resume"
+remote_theme: "crispgm/resume"
 color: blue
 exclude:
   - README.md
