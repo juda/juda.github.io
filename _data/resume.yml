@@ -47,11 +47,11 @@ publication:
     video: 
 thesis:
   - title: "Iso-Recursive Subtyping: New Theory and Extensions"
-    link:
-    artifact:
-    supervisor: Bruno C. d. S. Oliveira
-    committee: Ravishankar Ramanathan(HKU), Heming Cui(HKU), TBD(Externel thesis committee)
-    Note: Working draft
+    link: https://i.cs.hku.hk/~ydzhou/
+    artifact: https://i.cs.hku.hk/~ydzhou/
+    supervisor: "Supervisor: Bruno C. d. S. Oliveira"
+    committee: "Committee: Ravishankar Ramanathan(HKU), Heming Cui(HKU), TBD(Externel thesis committee)"
+    note: Working draft
 teaching:
   - name: C++ Programming (SJTU)
     time: Fall 2014
