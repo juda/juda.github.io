@@ -64,6 +64,49 @@ layout: default
         </div>
       </section>
 
+      <section id="thesis">
+        <div class="section-title">
+          Dissertation
+        </div>
+        <div class="section-content">
+          {% for pub in site.data.resume.thesis %}
+          <div class="block">
+            <div class="block-title">
+              {{ pub.title }}
+            </div>
+            {% if pub.note %}
+              <div class="block-subtitle">
+              <font  color="black">
+                *  {{ pub.note }}
+              </font>
+              </div>
+            {% endif %}
+            <div class="block-material">
+              <a href="{{ pub.link }}">
+              <i class="fa fa-file-pdf-o aria-hidden="true></i> Paper
+              </a>
+              {% if pub.artifact %}
+              <a class="a-materail" href="{{ pub.artifact }}">
+              <i class="fa fa-file-code-o aria-hidden="true></i> Artifact
+              </a>
+              {% endif %}
+              {% if pub.video %}
+              <a class="a-materail" href="{{ pub.video }}">
+              <i class="fa fa-youtube aria-hidden="true></i> Video
+              </a>
+              {% endif %}
+            </div>
+            <div class="block-content">
+              {{ pub.supervisor }}
+            </div>
+            <div class="block-content">
+              {{ pub.commitee }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
       <section id="publication">
         <div class="section-title">
           Publication

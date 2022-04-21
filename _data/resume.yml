@@ -28,13 +28,13 @@ education:
     advisor: "Mentor: Prof. Haiyuan Yu"
 publication:
   - title: Revisiting Iso-Recursive Subtyping.
-    authors: Yaoda Zhou, Jinxu Zhao and Bruno C. d.  S. Oliveira
+    authors: Yaoda Zhou, Jinxu Zhao and Bruno C. d. S. Oliveira
     conf: To appear in the TOPLAS journal.
     link: static/TOPLASdraft.pdf
     note: This is the extended version of OOPSLA'20 paper.
     artifact: https://github.com/juda/Iso-Recursive-Subtyping
   - title: Revisiting Iso-Recursive Subtyping.
-    authors: Yaoda Zhou, Bruno C. d.  S. Oliveira and Jinxu Zhao
+    authors: Yaoda Zhou, Bruno C. d. S. Oliveira and Jinxu Zhao
     conf: In 35th ACM International Conference on Object-Oriented Programming, Systems, Languages andApplications (OOPSLA 2020), 2020.
     link: static/oopsla20.pdf
     artifact: https://github.com/juda/Iso-Recursive-Subtyping
@@ -45,6 +45,13 @@ publication:
     link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1138-2
     artifact: http://iregnet3d.yulab.org/index/
     video: 
+thesis:
+  - title: "Iso-Recursive Subtyping: New Theory and Extensions"
+    link:
+    artifact:
+    supervisor: Bruno C. d. S. Oliveira
+    committee: Ravishankar Ramanathan(HKU), Heming Cui(HKU), TBD(Externel thesis committee)
+    Note: Working draft
 teaching:
   - name: C++ Programming (SJTU)
     time: Fall 2014
