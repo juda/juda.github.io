@@ -50,7 +50,7 @@ thesis:
     link: https://i.cs.hku.hk/~ydzhou/
     artifact: https://i.cs.hku.hk/~ydzhou/
     supervisor: "Supervisor: Bruno C. d. S. Oliveira"
-    committee: "Committee: Ravishankar Ramanathan(HKU), Heming Cui(HKU), TBD(Externel thesis committee)"
+    committee: "External committee: TBD"
     note: Working draft
 teaching:
   - name: C++ Programming (SJTU)
