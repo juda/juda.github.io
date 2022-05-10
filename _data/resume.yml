@@ -48,7 +48,7 @@ publication:
 thesis:
   - title: "Iso-Recursive Subtyping: New Theory and Extensions"
     link: https://i.cs.hku.hk/~ydzhou/
-    artifact: https://i.cs.hku.hk/~ydzhou/
+    artifact: https://github.com/juda/dissertation-artifacts
     supervisor: "Supervisor: Bruno C. d. S. Oliveira"
     committee: "External committee: TBD"
     note: Working draft
