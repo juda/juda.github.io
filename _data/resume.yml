@@ -29,8 +29,8 @@ education:
 publication:
   - title: Revisiting Iso-Recursive Subtyping.
     authors: Yaoda Zhou, Jinxu Zhao and Bruno C. d. S. Oliveira
-    conf: To appear in the TOPLAS journal.
-    link: static/TOPLASdraft.pdf
+    conf: In ACM Transactions on Programming Languages and Systems (TOPLAS).
+    link: https://i.cs.hku.hk/~ydzhou/static/TOPLAS21draft.pdf
     note: This is the extended version of OOPSLA'20 paper.
     artifact: https://github.com/juda/Iso-Recursive-Subtyping
   - title: Revisiting Iso-Recursive Subtyping.
