@@ -145,6 +145,36 @@ layout: default
         </div>
       </section>
 
+      <section id="draft">
+        <div class="section-title">
+          Draft
+        </div>
+        <div class="section-content">
+          {% for pub in site.data.resume.draft %}
+          <div class="block">
+            <div class="block-title">
+              {{ pub.title }}
+            </div>
+            <div class="block-subtitle">
+              {{ pub.authors }}
+            </div>
+            {% if pub.note %}
+              <div class="block-subtitle">
+              <font  color="black">
+                *  {{ pub.note }}
+              </font>
+              </div>
+            {% endif %}
+            <div class="block-material">
+              <a href="{{ pub.link }}">
+              <i class="fa fa-file-pdf-o aria-hidden="true></i> Paper
+              </a>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
       <section id="teaching">
         <div class="section-title">
           Teaching

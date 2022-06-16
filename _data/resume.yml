@@ -26,6 +26,10 @@ education:
     major: Exchange/Visiting Student
     lab: Member of Yu Lab, Weill Institute for Cell and Molecular Biology
     advisor: "Mentor: Prof. Haiyuan Yu"
+draft:
+  - title: A Calculus with Recursive Types, Record Concatenation and Subtyping.
+    authors: Yaoda Zhou, Bruno C. d. S. Oliveira and Andong Fan.
+    link: static/merge.pdf
 publication:
   - title: Revisiting Iso-Recursive Subtyping.
     authors: Yaoda Zhou, Jinxu Zhao and Bruno C. d. S. Oliveira
